@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234086443966",
+    "project_id": "madnirestaurant-bd67f",
+    "storage_bucket": "madnirestaurant-bd67f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234086443966:android:0033ba134be7f586b767ef",
+        "android_client_info": {
+          "package_name": "com.madni_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234086443966-4nfhdk4oumkb3j2tduv0oii8rhe4p35u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAHLnUvt09q-WR3YvFwDnlrmRC2YgNzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234086443966-4nfhdk4oumkb3j2tduv0oii8rhe4p35u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

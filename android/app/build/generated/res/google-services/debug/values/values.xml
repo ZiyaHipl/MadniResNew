@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">234086443966-4nfhdk4oumkb3j2tduv0oii8rhe4p35u.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">234086443966</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxAHLnUvt09q-WR3YvFwDnlrmRC2YgNzo</string>
+    <string name="google_app_id" translatable="false">1:234086443966:android:0033ba134be7f586b767ef</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxAHLnUvt09q-WR3YvFwDnlrmRC2YgNzo</string>
+    <string name="google_storage_bucket" translatable="false">madnirestaurant-bd67f.appspot.com</string>
+    <string name="project_id" translatable="false">madnirestaurant-bd67f</string>
+</resources>
